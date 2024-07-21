@@ -1,3 +1,7 @@
+//Hunter Casey
+//July 21 2024
+//CIS 1202
+
 #ifndef CAR_H
 #define CAR_H
 
